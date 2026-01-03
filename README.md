@@ -439,5 +439,3 @@ This project implements a complete end-to-end big data pipeline built on Apache 
 
 ---
 
-[**VIDEO RECORDING** ](https://drive.google.com/file/d/1wz9NxPkv3Lelz5qNbY1PaGAN-jZmxEpk/view?usp=sharing)
-
